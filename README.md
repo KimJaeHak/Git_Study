@@ -43,4 +43,4 @@ Git 을 공부하기 위한 저장소.
 40. f  
 41. ff
 
-[Git_Study](#study)
+[Git_Study](#git_study)
